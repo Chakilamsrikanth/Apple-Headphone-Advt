@@ -10,7 +10,8 @@ This project is a simple demonstration of an advertisement for Apple Headphones 
 
 ## Demo
 
-You can see a live demo [here](link_to_demo).
+<img width="913" alt="Apple" src="https://github.com/Chakilamsrikanth/Apple-Headphone-Advt/assets/147283839/48a4ddbe-170d-45d2-bc74-caf7bf134c9b">
+
 
 ## Installation
 
